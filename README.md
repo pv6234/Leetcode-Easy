@@ -1,1 +1,1 @@
-# Leetcode-Easy
+# Leetcode-Easy-Python
